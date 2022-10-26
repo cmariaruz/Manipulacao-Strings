@@ -18,7 +18,6 @@ public class SelecaoString {
             listaStrings.append(sequencia);
 
         }
-
         comparaSequencia(listaStrings);
         getMaiorSequeciaAscendente(listaSequencias);
 
