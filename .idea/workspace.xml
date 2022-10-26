@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4548e106-23c9-4278-8600-a5a0d1aef26e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicioString.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelecaoString.java" afterDir="false" />
-    </list>
+    <list default="true" id="4548e106-23c9-4278-8600-a5a0d1aef26e" name="Changes" comment="codigo de maior sequencia" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +49,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666749685698</updated>
     </task>
+    <task id="LOCAL-00001" summary="codigo de maior sequencia">
+      <created>1666792606889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666792606889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,17 +70,16 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="codigo de maior sequencia" />
+    <option name="LAST_COMMIT_MESSAGE" value="codigo de maior sequencia" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/SelecaoString.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SelecaoString.java</url>
-          <line>52</line>
+          <line>45</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
